@@ -41,7 +41,7 @@ const Home: NextPage = () => {
         <button className="mt-8 font-bold text-md text-primary-pale bg-primary-bright w-5/6 m-auto rounded-xl p-3 shadow-neutral-desaturated shadow-lg drop-shadow-2xl hover:bg-primary-bright hover:bg-opacity-60 hover:cursor-pointer">
           Proceed to Payment
         </button>
-        <span className="mt-4 text-neutral-desaturated font-bold">
+        <span className="mt-4 text-neutral-desaturated font-bold hover:text-neutral-dark hover:cursor-pointer">
           Cancel Order
         </span>
       </main>
